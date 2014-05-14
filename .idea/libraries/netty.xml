@@ -2,10 +2,9 @@
   <library name="netty">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/third_party/java/netty/netty-3.5.7.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third_party/java/netty/netty-3.5.7.Final-src.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="jar://$PROJECT_DIR$/third_party/java/netty/netty-3.5.7.Final-src.jar!/" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>

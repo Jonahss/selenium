@@ -63,3 +63,5 @@ GRTAGS
 GSYMS
 GTAGS
 .project
+.idea
+.gitignore
